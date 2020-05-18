@@ -18,16 +18,16 @@ The Steps used are:
 Results: The Following are the result for the three distributions we have used:
 
 ###### Uniform Distribution
-<img src="https://github.com/jayshilj/Rainfall-Model/blob/master/images/normal.png" width="500">
+<img src="https://github.com/jayshilj/Rainfall-Model/blob/master/images/uniform.png" width="500">
 
 
 ###### Normal Distribution
 
-<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/normal.png" width="500">
+<img src="https://github.com/jayshilj/Rainfall-Model/blob/master/images/normal.png" width="500">
 
 
 ###### Exponential Distribution (Does fit better than the other two!)
-<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/exponential.png" width="500">
+<img src="https://github.com/jayshilj/Rainfall-Model/blob/master/images/exponential.png" width="500">
 
 
 
