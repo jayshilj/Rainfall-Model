@@ -1,7 +1,7 @@
 # Modeling Rainfall Distribution using Gamma Parameters
 
 
-<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/all.png" width="2000">
+<img src="https://github.com/jayshilj/Rainfall-Model/blob/master/images/all.png" width="2000">
 
 
 
