@@ -1,7 +1,7 @@
 # Modeling Rainfall Distribution using Gamma Parameters
 
 
-<img src="https://github.com/kashishshah881/bayesian-model/blob/master/images/all.png" width="2000">
+<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/all.png" width="2000">
 
 
 
@@ -18,16 +18,16 @@ The Steps used are:
 Results: The Following are the result for the three distributions we have used:
 
 ###### Uniform Distribution
-<img src="https://github.com/kashishshah881/bayesian-model/blob/master/images/uniform.png" width="500">
+<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/uniform.png" width="500">
 
 
 ###### Normal Distribution
 
-<img src="https://github.com/kashishshah881/bayesian-model/blob/master/images/normal.png" width="500">
+<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/normal.png" width="500">
 
 
 ###### Exponential Distribution (Does fit better than the other two!)
-<img src="https://github.com/kashishshah881/bayesian-model/blob/master/images/exponential.png" width="500">
+<img src="https://github.com/jayshilj/bayesian-model/blob/master/images/exponential.png" width="500">
 
 
 
@@ -39,7 +39,7 @@ Results: The Following are the result for the three distributions we have used:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ```
-git clone https://github.com/kashishshah881/bayesian-model.git
+git clone https://github.com/jayshilj/Rainfall-Model
 
 ```
 
@@ -67,7 +67,7 @@ jupyter notebook
 
 ## Authors
 
-* **[Kashish Shah](www.kashishshah.com)**
+* **[Jayshil Jain](https://jayshiljain.netlify.app/)**
 
 
 ## License
